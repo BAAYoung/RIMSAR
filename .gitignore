@@ -2,7 +2,8 @@
 .DS_Store
 # data folder
 
-data/
+data/01_raw
+data/02_intermediate
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
